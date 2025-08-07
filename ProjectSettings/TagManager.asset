@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Timer
+  - Score
+  - HighScore1
+  - HighScore2
+  - HighScore3
+  - Heart1
+  - Heart2
+  - Heart3
+  - SpawnPoint
+  - Win
+  - Enemy
+  - CurrentTime
+  - Gate
+  - Button
+  - EnemyBullet
+  - PlayerBullet
+  - Bounce
+  - Boundary
+  - Laser
+  - Trap
+  - Environment
+  - Pullable
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Environment
+  - Bullet
+  - EnemyBullet
+  - Enemy
+  - Player
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - CameraSortingLayer
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1070893965
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CameraSortingLayer
+    uniqueID: 2027565009
+    locked: 0
+  m_RenderingLayers:
+  - Default
