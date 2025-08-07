@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1ec32af7132b70248ac9da73338d2a44
+timeCreated: 1552116361
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141838
+  packageName: Pixel Tiles For Side Scroller
+  packageVersion: 2.0.0
+  assetPath: Assets/PixelTilesForSideScroller/TileAssets/Others/Fence8.asset
+  uploadId: 302008

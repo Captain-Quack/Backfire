@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 10fd34870180e284f915bbf34af26e9e
+timeCreated: 1552320505
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141838
+  packageName: Pixel Tiles For Side Scroller
+  packageVersion: 2.0.0
+  assetPath: Assets/PixelTilesForSideScroller/TileAssets/Nature/Wood8.asset
+  uploadId: 302008

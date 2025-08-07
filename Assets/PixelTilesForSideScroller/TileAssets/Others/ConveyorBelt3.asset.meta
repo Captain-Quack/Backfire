@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cadf98a514f770a4a8e52fa210d8b260
+timeCreated: 1552116211
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141838
+  packageName: Pixel Tiles For Side Scroller
+  packageVersion: 2.0.0
+  assetPath: Assets/PixelTilesForSideScroller/TileAssets/Others/ConveyorBelt3.asset
+  uploadId: 302008

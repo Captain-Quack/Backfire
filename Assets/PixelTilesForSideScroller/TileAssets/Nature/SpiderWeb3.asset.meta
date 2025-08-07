@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 660e98b7e9aa6474b83081649260d9ed
+timeCreated: 1553574055
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141838
+  packageName: Pixel Tiles For Side Scroller
+  packageVersion: 2.0.0
+  assetPath: Assets/PixelTilesForSideScroller/TileAssets/Nature/SpiderWeb3.asset
+  uploadId: 302008

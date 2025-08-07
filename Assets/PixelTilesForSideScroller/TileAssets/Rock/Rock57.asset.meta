@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 437e57c8b14bfce4997190d8c54415f8
+timeCreated: 1552322712
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141838
+  packageName: Pixel Tiles For Side Scroller
+  packageVersion: 2.0.0
+  assetPath: Assets/PixelTilesForSideScroller/TileAssets/Rock/Rock57.asset
+  uploadId: 302008

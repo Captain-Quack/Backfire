@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fd89124410e4e9a9cfb161596414f3e, type: 3}
+  m_Name: 00 Glock 17
+  m_EditorClassIdentifier: 
+  cooldown: 0.01
+  name: The Inspector
+  action: 0
+  sprite: {fileID: -6921211370712697272, guid: 17f2a813b588d2a48b236412ed3abba5, type: 3}
+  bulletData: {fileID: 11400000, guid: 157c025c5285e90468bd23c118da6515, type: 2}
+  muzzleVelocityFPS: 1180
+  sfxPath: event:/SFX/Game/Pistol
+  isUnlockedByDefault: 1
+  lockText: 'This shouldn''t be locked, yell @ mason '

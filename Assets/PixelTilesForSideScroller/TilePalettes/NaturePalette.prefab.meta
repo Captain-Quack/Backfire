@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b6ebe774f54d9a143978fdc762d03973
+timeCreated: 1552320055
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141838
+  packageName: Pixel Tiles For Side Scroller
+  packageVersion: 2.0.0
+  assetPath: Assets/PixelTilesForSideScroller/TilePalettes/NaturePalette.prefab
+  uploadId: 302008

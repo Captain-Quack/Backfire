@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 23ad6893abdd5644a886d37c1145e4fd
+timeCreated: 1552324602
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141838
+  packageName: Pixel Tiles For Side Scroller
+  packageVersion: 2.0.0
+  assetPath: Assets/PixelTilesForSideScroller/readme_ja.txt
+  uploadId: 302008

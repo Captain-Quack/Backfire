@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fd89124410e4e9a9cfb161596414f3e, type: 3}
+  m_Name: 02 Sniper
+  m_EditorClassIdentifier: 
+  cooldown: 0.1
+  name: The Breakpoint
+  action: 3
+  sprite: {fileID: -3246852257386570424, guid: 0d467d15a286f9a47831999eac559478, type: 3}
+  bulletData: {fileID: 11400000, guid: f0442191e80e1f843b18160a940295cb, type: 2}
+  muzzleVelocityFPS: 8000
+  sfxPath: event:/SFX/Game/Laser Gun
+  isUnlockedByDefault: 0
+  lockText: Complete Ts...?

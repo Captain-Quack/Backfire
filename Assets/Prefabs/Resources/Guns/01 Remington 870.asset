@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fd89124410e4e9a9cfb161596414f3e, type: 3}
+  m_Name: 01 Remington 870
+  m_EditorClassIdentifier: 
+  cooldown: 0.3
+  name: The Branch
+  action: 2
+  sprite: {fileID: 7631219046128225658, guid: 29a4d112991713e42a6a8e589f4ebb39, type: 3}
+  bulletData: {fileID: 11400000, guid: fc789c5ddae88594db537a10631a3672, type: 2}
+  muzzleVelocityFPS: 1325
+  sfxPath: event:/SFX/Game/Shotgun
+  isUnlockedByDefault: 1
+  lockText: This shouldn't be unlocked, yell at mason

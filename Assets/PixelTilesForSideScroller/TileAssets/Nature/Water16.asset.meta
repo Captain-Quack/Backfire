@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7623a6107ce08c6418faf2972bb53191
+timeCreated: 1553579936
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141838
+  packageName: Pixel Tiles For Side Scroller
+  packageVersion: 2.0.0
+  assetPath: Assets/PixelTilesForSideScroller/TileAssets/Nature/Water16.asset
+  uploadId: 302008

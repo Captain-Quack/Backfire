@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9351cd475884b319a6db4f14aba24aa, type: 3}
+  m_Name: 9x19mm Parabellum
+  m_EditorClassIdentifier: 
+  name: Standard Ammo
+  lifetime: 5
+  damage: 1
+  weightInGrains: 115
+  sprite: {fileID: 501216234980768644, guid: 70b5ad043868d0242a30fd38922f9e3c, type: 3}
+  bulletTrail: {fileID: 1875545951498972272, guid: 2a53f97ab41a1f04a8e82a9270cbfd66, type: 3}

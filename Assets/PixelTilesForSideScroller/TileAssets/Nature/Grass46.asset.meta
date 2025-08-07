@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2204105e65047a54a942a0d768ff7f0b
+timeCreated: 1553443661
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141838
+  packageName: Pixel Tiles For Side Scroller
+  packageVersion: 2.0.0
+  assetPath: Assets/PixelTilesForSideScroller/TileAssets/Nature/Grass46.asset
+  uploadId: 302008

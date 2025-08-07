@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2d22f0a35d2f8b44ea5126e2227175dd
+timeCreated: 1552113719
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141838
+  packageName: Pixel Tiles For Side Scroller
+  packageVersion: 2.0.0
+  assetPath: Assets/PixelTilesForSideScroller/TileAssets/Concrete/Concrete9.asset
+  uploadId: 302008

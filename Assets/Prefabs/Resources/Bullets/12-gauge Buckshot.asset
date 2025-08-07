@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9351cd475884b319a6db4f14aba24aa, type: 3}
+  m_Name: 12-gauge Buckshot
+  m_EditorClassIdentifier: 
+  name: Spread
+  lifetime: 5
+  damage: 1
+  weightInGrains: 53.8
+  sprite: {fileID: 2218869000813416646, guid: 66131ea466ff4bc42987fb3c5a465a65, type: 3}
+  bulletTrail: {fileID: 1875545951498972272, guid: 69f17ea636cb4e5428126b04be361e8e, type: 3}

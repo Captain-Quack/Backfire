@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 97a410a590f77244e819ba5531bbc302
+timeCreated: 1553574045
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141838
+  packageName: Pixel Tiles For Side Scroller
+  packageVersion: 2.0.0
+  assetPath: Assets/PixelTilesForSideScroller/TileAssets/Others/Lantern18.asset
+  uploadId: 302008
